@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\bin\Debug\net8.0\SquareRootCalculator.exe
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\bin\Debug\net8.0\SquareRootCalculator.deps.json
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\bin\Debug\net8.0\SquareRootCalculator.runtimeconfig.json
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\bin\Debug\net8.0\SquareRootCalculator.dll
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\bin\Debug\net8.0\SquareRootCalculator.pdb
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.dll
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\refint\SquareRootCalculator.dll
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.pdb
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\SquareRootCalculator.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculator\obj\Debug\net8.0\ref\SquareRootCalculator.dll

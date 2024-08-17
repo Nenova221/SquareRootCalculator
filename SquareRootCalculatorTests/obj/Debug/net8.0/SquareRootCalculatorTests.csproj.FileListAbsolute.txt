@@ -1,0 +1,6 @@
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\bin\Debug\net8.0\CoverletSourceRootsMapping_SquareRootCalculatorTests
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\obj\Debug\net8.0\SquareRootCalculatorTests.csproj.AssemblyReference.cache
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\obj\Debug\net8.0\SquareRootCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\obj\Debug\net8.0\SquareRootCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\obj\Debug\net8.0\SquareRootCalculatorTests.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\SquareRootCalculator\SquareRootCalculatorTests\obj\Debug\net8.0\SquareRootCalculatorTests.csproj.CoreCompileInputs.cache
