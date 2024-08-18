@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\KalinA\\source\\repos\\SquareRootCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64C1175C-C166-45AD-982D-4971632E6A7D}|SquareRootCalculatorTests\\SquareRootCalculatorTests.csproj|c:\\users\\kalina\\source\\repos\\squarerootcalculator\\squarerootcalculatortests\\squarerootcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64C1175C-C166-45AD-982D-4971632E6A7D}|SquareRootCalculatorTests\\SquareRootCalculatorTests.csproj|solutionrelative:squarerootcalculatortests\\squarerootcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F69AC915-5137-4B4A-A3D8-3D1770D55ECD}|SquareRootCalculator\\SquareRootCalculator.csproj|c:\\users\\kalina\\source\\repos\\squarerootcalculator\\squarerootcalculator\\squarerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F69AC915-5137-4B4A-A3D8-3D1770D55ECD}|SquareRootCalculator\\SquareRootCalculator.csproj|solutionrelative:squarerootcalculator\\squarerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C1175C-C166-45AD-982D-4971632E6A7D}|SquareRootCalculatorTests\\SquareRootCalculatorTests.csproj|c:\\users\\kalina\\source\\repos\\squarerootcalculator\\squarerootcalculatortests\\squarerootcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C1175C-C166-45AD-982D-4971632E6A7D}|SquareRootCalculatorTests\\SquareRootCalculatorTests.csproj|solutionrelative:squarerootcalculatortests\\squarerootcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1444,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SquareRootCalculator.cs",
               "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SquareRootCalculator\\SquareRootCalculator\\SquareRootCalculator.cs",
               "RelativeDocumentMoniker": "SquareRootCalculator\\SquareRootCalculator.cs",
               "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SquareRootCalculator\\SquareRootCalculator\\SquareRootCalculator.cs",
               "RelativeToolTip": "SquareRootCalculator\\SquareRootCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T19:00:46.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SquareRootCalculatorTests.cs",
               "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SquareRootCalculator\\SquareRootCalculatorTests\\SquareRootCalculatorTests.cs",
               "RelativeDocumentMoniker": "SquareRootCalculatorTests\\SquareRootCalculatorTests.cs",
               "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SquareRootCalculator\\SquareRootCalculatorTests\\SquareRootCalculatorTests.cs",
               "RelativeToolTip": "SquareRootCalculatorTests\\SquareRootCalculatorTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T18:59:21.33Z",
               "EditorCaption": ""
