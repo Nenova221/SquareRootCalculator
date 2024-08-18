@@ -1,4 +1,5 @@
 using SquareRootCalculator;
+using Xunit;
 
 namespace SquareRootCalculatorTests
 {
@@ -8,13 +9,13 @@ namespace SquareRootCalculatorTests
         [InlineData(4, 2)]
         [InlineData(9, 3)]
         [InlineData(16, 4)]
-        public void CalculateSquareRoot_WithCalculateSquareRoot_ShouldReturnCorrectResult(double input, double expected)
+        public void Calculate_WithCalculateSquareRoot_ShouldReturnCorrectResult(double input, double expected)
         {
             double result = SquareRootCalculator.Calculate(input);
             Assert.Equal(expected, result);
         }
         [Fact]
-        public void CalculateSquareRoot_NegativeInput_ShouldThrowArgumentOutOfRangeException()
+        public void Calculate_NegativeInput_ShouldThrowArgumentOutOfRangeException()
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => SquareRootCalculator.Calculate(-1));
         }
